@@ -1,0 +1,6 @@
+opencv-python
+imutils
+scipy
+dlib
+pygame
+Pillow
