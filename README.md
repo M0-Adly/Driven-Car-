@@ -73,5 +73,4 @@ python Drowsiness_GUI.py
 
 ---
 <p align="center">
-  <i>Stay Awake, Stay Safe! 🛑</i>
 </p>
